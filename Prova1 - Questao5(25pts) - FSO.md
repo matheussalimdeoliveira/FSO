@@ -1,4 +1,4 @@
-#Pergunta - Dado o diagrama abaixo, que mapeia os estados em que um processo pode se encontrar, descreva as condicoes em que as trocas de estado ocorrem.
+# Pergunta - Dado o diagrama abaixo, que mapeia os estados em que um processo pode se encontrar, descreva as condicoes em que as trocas de estado ocorrem.
 
 R: Estados de um processo:
   -NEW: novo processo se iniciando
