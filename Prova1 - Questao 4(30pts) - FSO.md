@@ -1,3 +1,8 @@
+# Pergunta: Escreva um trecho de codigo que utiliza a funcao fork() e gera a seguinte hierarquia de processos:Alem da hierarquia, faca com que o processo G envie um sinal SIGUSR1 para o processo A e assim que o processo A receber o sinal ele deve enviar um sinal SIGUSR2 para o processo C.
+
+
+
+
 #include <stdio.h>
 #include <signal.h>
 #include <sys/types.h>
